@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://quickpartcad.github.io/quickpartcad-web/sitemap.xml
+Sitemap: https://quickpartcadweb.github.io/sitemap.xml
